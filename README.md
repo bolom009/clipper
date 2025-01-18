@@ -4,9 +4,9 @@
 
 Geometric offsetting refers to the process of creating parallel curves that are offset a specified distance from their primary curves.
 
-
 ## Demo
 
+![preview](https://github.com/user-attachments/assets/ade276f6-ceda-4791-aed3-0c3b4a3a6768)
 
 
 ## How to use
